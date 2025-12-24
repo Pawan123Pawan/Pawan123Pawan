@@ -64,8 +64,10 @@
 <div align="center">
   <h2>📊 My Stats 📈</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pawan123Pawan&rank_icon=github&theme=dark" alt="Souvik's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan123Pawan&layout=donut&theme=dark" alt="Top Languages" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawan123Pawan&theme=dark&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan123Pawan&layout=donut&theme=dark" />
+</p>
+
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=dark" alt="Souvik Hazra's GitHub Streak"> -->
   </p>
 </div>
