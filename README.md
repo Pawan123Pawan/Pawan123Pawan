@@ -66,7 +66,6 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Pawan123Pawan&theme=dark&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan123Pawan&layout=donut&theme=dark" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan123Pawan&theme=github-dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan123Pawan&theme=dark" />
     <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan123Pawan&theme=github-dark" /> -->
   </p>
