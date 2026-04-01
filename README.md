@@ -60,7 +60,7 @@
 </p>
   <p>🚀 Let's build something amazing together! Check out my portfolio at <a href="https://pawan-profile.vercel.app/">pawan.in</a></p>
 </div>
-<hr>
+<!-- <hr> -->
 <!-- <div align="center">
   <h2>📊 My Stats 📈</h2>
   <p align="center">
@@ -68,5 +68,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan123Pawan&layout=donut&theme=dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan123Pawan&theme=dark" />
     <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan123Pawan&theme=github-dark" /> -->
-  </p>
-</div> -->
+  <!-- </p> -->
+<!-- </div> --> 
